@@ -1,0 +1,66 @@
+*{
+    margin:0px;
+    padding:0px;    
+    }
+    
+    
+    section {
+        background-color: transparent;
+        display: flex;
+        justify-content: space-between;
+        height: 100%;
+    }
+    section .paty1 p {
+        padding: 10px;
+        margin-left:  10px;
+         margin-right: 10px ;
+        color:white;
+    }
+    
+    .ronald{
+        display: flex;
+        justify-content: space-between;
+        background-color: black;
+    }
+    
+    .paty1{
+    background-color: black;
+    height: 500px;
+    }
+    .paty2{
+        background-color: white;
+        height: 500px;
+        }
+    
+    
+    header{
+        background-color: black;
+        display: flex;
+        font-family: sans-serif;
+        justify-content: space-between;
+        height: 30px;
+        font-size: 15px;
+    }
+    
+    nav{
+        display:flex;
+        justify-content: space-between;
+    
+        padding: 5px;
+      }
+      
+      ul{
+        display:flex;
+        justify-content: space-between;
+    
+      }
+    li {
+        display: flex;
+        justify-content: space-between;
+    }
+    header h2{
+        align-content: flex-end;
+        }  
+    footer{
+        text-align: end;
+    }
